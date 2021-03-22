@@ -1,0 +1,12 @@
+                                                                                        PROJECT NO. 44
+                                  -------------------------------------------------------------------------------------------------------------------
+                                                                                      About my own game
+
+My game which I will make is the 'snake game' about which we all know.In this Game, the user moves the snake with arrow Keys in the first project, then he moves it with gestures.
+    pillow- left
+   phone- right
+ and other gestures.In the last part he moves it with his voice up,down,left,right.The non- playing character will be the food which will come in random positionswhile the playing character will be the snake of course. This game will test the users game reflexes and has very simple rules. A score will also be shown to see how well the user is performing. I will try to make this game Interesting by make the game user friendly with many texts for the direction of the player.
+
+     *Moreover, this game will be made using the OOP style of Programming And will also take the Help of websites like Teachable Machine, and Librarys Like ml5.js  and of course the p5.js DOM Elements.
+
+                                                                                    -"Thank You"
